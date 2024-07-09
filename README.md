@@ -1,4 +1,3 @@
-# *Assigment 6*
 
 ### *Description*
 
